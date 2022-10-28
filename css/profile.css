@@ -1115,12 +1115,19 @@
 }
 
 .team_table {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .team_table td {
-        padding: 10px;
+    padding: 10px;
     vertical-align: top;
+
+}
+
+
+.team_table strong {
+    /*font-size: large;*/
+    /*vertical-align: top;*/
 
 }
